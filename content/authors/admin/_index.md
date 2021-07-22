@@ -14,11 +14,11 @@ organizations:
   url: https://www.american.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ethics in data science.
+bio: Teacher and Practitioner of Data Science.
 
 # Interests to show in About widget
 interests:
-- Data Science
+- Data Science using R
 - Ethics
 - Open Data
 - Mapping in R
@@ -29,7 +29,7 @@ education:
   - course: PhD in Operations Research
     institution: Naval Postgraduate School
     year: 1991
-  - course: MS iN Operations Research
+  - course: MS in Operations Research
     institution: Naval Postgraduate School
     year: 1987
   - course: BA in Biochemistry
@@ -65,6 +65,6 @@ email: ""
 highlight_name: false
 ---
 
-Richard Ressler is a Senior Professorial Lecturer in the Department of Mathematics and Statistics at American University.  He teaches multiple courses in data scince and statistics as well as an AU Complex Problems course on *Big Data, Bias and Justice for All*. His research interests include ethics in data science.
+Richard Ressler is a Senior Professorial Lecturer in the Department of Mathematics and Statistics at American University.  He teaches multiple courses in data science and statistics as well as an AU Complex Problems seminar course on *Big Data, Bias and Justice for All*. His research interests include ethics in data science.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

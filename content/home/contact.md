@@ -22,8 +22,6 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
-    formspree:
-      id:
 design:
   columns: '2'
 ---

@@ -20,10 +20,10 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email:
+phone:
 address:
-  street:
+  street: 4400 New Mexico Ave, NW
   city: Washington
   region: DC
   postcode: '94305'
@@ -32,24 +32,16 @@ address:
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Enter The Don Myers Building and go the the back hallway and turn right to Office 106-O
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Monday 3:00 to 4:00'
+  - 'Wednesday 3:00 to 4:00'
+appointment_url: 'via Outlook'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: ResslerRich
     link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
   - icon: comments
     icon_pack: fas
     name: Discuss on Forum

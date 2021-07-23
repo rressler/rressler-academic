@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Richard Ressler
+title: Richard Ressler's Demo site for Classes
 
 # Is this the primary user of the site?
 superuser: true
@@ -36,6 +36,8 @@ education:
     institution: University of Pennsylvania
     year: 1978
 
+
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -65,6 +67,8 @@ email: ""
 highlight_name: false
 ---
 
-Richard Ressler is a Senior Professorial Lecturer in the Department of Mathematics and Statistics at American University.  He teaches multiple courses in data science and statistics as well as an AU Complex Problems seminar course on *Big Data, Bias and Justice for All*. His research interests include ethics in data science.
+This is a demo site with a mix of edited content and defaults from the Academic resume starter theme. Richard Ressler is a Senior Professorial Lecturer in the Department of Mathematics and Statistics at American University.  He teaches multiple courses in data science and statistics as well as an AU Complex Problems seminar course on *Big Data, Bias and Justice for All*. His research interests include ethics in data science.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+

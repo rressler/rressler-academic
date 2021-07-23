@@ -3,9 +3,10 @@
 
 # Hugo
 /resources/
-public/
+/public/
 jsconfig.json
 node_modules/
 .Rproj.user
 .DS_store
 .Rhistory
+.Thumbs.db
